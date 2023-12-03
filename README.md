@@ -1,5 +1,14 @@
 # Pratikum 7 : PHP Dasar
 
+===========================================================================<br>
+
+<p align="center">
+&#128640 <b>NAMA : CHAERUL HIDAYAT</b>&#128640 <br>
+&#128640<b>NIM : 312210300</b>&#128640 <br>
+&#128640<b>Mata Kuliah : Pemrograman Web</b>&#128640 <br>
+</p>
+===========================================================================<br><br>
+
 # 1. Pertama saya membuat echo Hello World <br>
 
 ![Alt text](<readme/code hello world.png>)<br>
@@ -48,4 +57,11 @@ Ini adalah hasil nya <br><br>
 Ini adalah hasil nya <br><br>
 ![Alt text](<readme/foto perulangan for.png>)<br>
 ![Alt text](<readme/foto perulangan while.png>)<br>
-![Alt text](<readme/foto perulangan do while.png>)<br><br>
+![Alt text](<readme/foto perulangan do while.png>)<br><br><br>
+
+===========================================================================<br>
+
+<p align="center">
+&#128640 <b> Terima Kasih </b>&#128640 <br>
+</p>
+===========================================================================<br>
