@@ -4,10 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operator PHP</title>
+    <title>PHP Dasar</title>
 </head>
 
 <body>
+    <h1>Operator</h1>
     <?php
     $gaji = 1000000;
     $pajak = 0.1;

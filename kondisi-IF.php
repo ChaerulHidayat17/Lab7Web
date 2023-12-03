@@ -4,16 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operator PHP</title>
+    <title>PHP Dasar</title>
 </head>
 
 <body>
+    <h1>Kondisi IF</h1>
     <?php
-    $gaji = 1000000;
-    $pajak = 0.1;
-    $thp = $gaji - ($gaji * $pajak);
-    echo "Gaji sebelum pajak = Rp. $gaji <br>";
-    echo "Gaji yang dibawa pulang = Rp. $thp";
+    $nama_hari = date("l");
+    if ($nama_hari == "Sunday") {
+        echo "Minggu";
+    } elseif ($nama_hari == "Monday") {
+        echo "Senin";
+    } else {
+        echo "Selasa";
+    }
     ?>
 </body>
 

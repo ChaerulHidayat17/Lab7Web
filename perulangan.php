@@ -4,11 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perulangan</title>
+    <title>PHP Dasar</title>
 </head>
 
 <body>
     <!-- Perulangan For -->
+    <h1>Perulangan For</h1>
     <?php
     echo "Perulangan 1 sampai 10 <br />";
     for ($i = 1; $i <= 10; $i++) {
@@ -19,8 +20,12 @@
         echo "Perulangan ke: " . $i . '<br />';
     }
     ?>
+    <!-- Selesai -->
+
+    <br><br><br>
 
     <!-- Perulangan While -->
+    <h1>Perulangan While</h1>
     <?php
     echo "Perulangan 1 sampai 10 <br />";
     $i = 1;
@@ -29,8 +34,11 @@
         $i++;
     }
     ?>
+    <!-- Selesai -->
+    <br><br><br>
 
-    <!-- Perulangan dowhile -->
+    <!-- Perulangan Dowhile -->
+    <h1>Perulangan Do While</h1>
     <?php
     echo "Perulangan 1 sampai 10 <br />";
     $i = 1;
@@ -39,6 +47,8 @@
         $i++;
     } while ($i <= 10);
     ?>
+    <!-- Selesai -->
+
 </body>
 
 </html>
